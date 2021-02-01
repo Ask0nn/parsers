@@ -21,3 +21,8 @@ Task :Main.main()
 Employee {id=1, firstName='John', lastName='Smith', country='USA', age=25}
 Employee {id=2, firstName='Inav', lastName='Petrov', country='RU', age=23}
 ```
+
+## Tests
+[Test #1](./src/test/java/com/ask0n/CSVToJsonTest.java)  
+[Test #2](./src/test/java/com/ask0n/XMLToJsonTest.java)  
+[Test #3 with hamcrest](./src/test/java/com/ask0n/ReadJsonTest.java)  
